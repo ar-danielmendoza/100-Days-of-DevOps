@@ -1,4 +1,4 @@
-#Consigna
+# Consigna
 Your task is to grant executable permissions to the /tmp/xfusioncorp.sh script on App Server. Additionally, ensure that all users have the capability to execute it.
 Pasos a seguir:
 1. Conectar por ssh.
